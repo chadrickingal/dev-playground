@@ -6,3 +6,6 @@ def add(firstNumber, secondNumber):
 def subtract(firstNumber, secondNumber):
     return firstNumber - secondNumber
 
+def multiply(firstNumber, secondNumber):
+    return firstNumber * secondNumber
+
