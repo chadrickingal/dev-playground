@@ -1,0 +1,8 @@
+
+
+def add(firstNumber, secondNumber):
+    return firstNumber + secondNumber
+
+def subtract(firstNumber, secondNumber):
+    return firstNumber - secondNumber
+
