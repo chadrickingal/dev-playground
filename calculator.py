@@ -9,3 +9,5 @@ def subtract(firstNumber, secondNumber):
 def multiply(firstNumber, secondNumber):
     return firstNumber * secondNumber
 
+def divide(firstNUmber, secondNumber):
+    return firstNUmber / secondNumber
