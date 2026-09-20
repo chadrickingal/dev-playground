@@ -15,4 +15,6 @@ def divide(firstNUmber, secondNumber):
     return firstNUmber / secondNumber
 
 def modulu(firstNumber, secondNumber):
+    if secondNumber == 0:
+        raise ValueError("Cannot calculate modulus by zero")
     return firstNumber % secondNumber
