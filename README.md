@@ -10,3 +10,8 @@ This is my git workflow practice project.
 - Multiplication
 - Division
 - Modulus
+
+
+## Development 
+
+This project is being used to practice Git workflows.
