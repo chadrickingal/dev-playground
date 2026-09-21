@@ -1,17 +1,8 @@
 
-# Git Workflow Practice
+# Python playground
 
-This is my git workflow practice project.
+This folder cantains different projects with python, this is only for practice
 
-## Project Features
+## Goal
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulus
-
-
-## Development 
-
-This project is being used to practice Git workflows.
+The purpose of this is to be fluent in python while learning
